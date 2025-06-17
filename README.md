@@ -29,7 +29,6 @@
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### 🗃️ 데이터베이스 & API  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 - ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
@@ -52,8 +51,6 @@
 - **설명**: 사용자 선호 카테고리 기반 도서 추천 및 챌린지 생성 기능 제공  
 - **기술**: Vue.js, Django REST Framework, OpenAI API, Bootstrap  
 - **역할**: 백엔드 API 설계 및 프론트 통신 구현  
-- **깃허브**: [프로젝트 링크](https://github.com/your_project_link)  
-
 ---
 
 ## 📫 연락처  
